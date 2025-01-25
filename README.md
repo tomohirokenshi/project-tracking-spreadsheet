@@ -37,3 +37,12 @@ Output: 1 (Green) → The task is on track because it was completed on time.
 **Default Condition (Else): 2** <br>
 If none of the above conditions are met, the formula outputs 2 (White). <br>
 This indicates that the task is not included in the evaluation or doesn’t meet any of the criteria for "on track" or "overdue."
+
+## Reflections
+The project allowed me to bridge the gap between theoretical knowledge and practical application. By creating a Gantt chart spreadsheet, I gained hands-on experience with designing tools that address specific needs, such as monitoring project progress and maintaining strict schedules. This reinforced my understanding of logical workflows, time management, and how seemingly small delays can have a significant impact on a project's success.
+<br> <br>
+Throughout the process, I enhanced my skills in Excel, including advanced commands, and conditional formatting. These tools not only streamlined data processing but also allowed me to deliver a solution that was both efficient and user-friendly.
+<br> <br>
+Working closely with the Construction Technical Assistant gave me insight into how tools like this directly impact day-to-day operations. Understanding their pain points and incorporating feedback into the spreadsheet design was a crucial part of the process, teaching me the importance of collaboration and adaptability.
+<br> <br>
+Finally, this project gave me a glimpse into the fast-paced nature of the construction industry, where time is a critical resource. By contributing a tool that helped streamline their operations, I gained a sense of fulfillment and confidence in my ability to deliver practical solutions that make a tangible difference.
